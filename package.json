@@ -1,0 +1,21 @@
+{
+  "name": "nodejshelmetwinston",
+  "version": "1.0.0",
+  "description": "Demo Helmet & Winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaasalmeen/nodejsHelmetWinston.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/doaasalmeen/nodejsHelmetWinston/issues"
+  },
+  "homepage": "https://github.com/doaasalmeen/nodejsHelmetWinston#readme"
+}
