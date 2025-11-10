@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/doaasalmeen/nodejsHelmetWinston/issues"
   },
-  "homepage": "https://github.com/doaasalmeen/nodejsHelmetWinston#readme"
+  "homepage": "https://github.com/doaasalmeen/nodejsHelmetWinston#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "winston": "^3.18.3"
+  }
 }
